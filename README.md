@@ -19,7 +19,7 @@ This is a dockerised container and Requires docker for its installation and work
       
       
       
-      *(task here is the name of the Docker container)
+      *(task here is the name of the Docker container we wish to create)
       
    
   
