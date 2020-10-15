@@ -11,8 +11,8 @@ This is a dockerised container and Requires docker for its installation and work
    --In the Folder containing these two Files Open Terminal
    --Run The Following Commands in Terminal
       
-      1. docker build -t task .   
-      2.docker run -it task
+      1) docker build -t task .   
+      2) docker run -it task
       
       
       
