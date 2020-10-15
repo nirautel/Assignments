@@ -1,7 +1,7 @@
 # Usage and Steps to Follow
 
-This project aims query the https://macaddress.io/ MAC address lookup API and get the company name associated with it. 
-This is a dockerised container and Requires docker for its installation and working;
+This project aims to query the https://macaddress.io/ MAC address lookup API and get the company name associated with it. 
+This is a dockerised container and Requires docker for its working;
 
 ## Steps to Follow And Requirements:
 1. This Project requires installation of Docker 
