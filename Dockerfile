@@ -6,6 +6,6 @@ RUN pip install git+git://github.com/broadinstitute/cromwell-tools.git@v0.3.1
 
 
 
-ADD Assign.py ./Assign.py
-CMD ["./Assign.py"]
+ADD Assign1.py ./Assign1.py
+CMD ["./Assign1.py"]
 ENTRYPOINT ["python"]
